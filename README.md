@@ -30,7 +30,7 @@ LangGraph를 활용하여 다음과 같은 흐름으로 구성하였다.
 검색된 문맥을 기반으로 LLM이 최종 답변을 생성하는 구조이다.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d6d93e54-6ed0-4311-ba4f-44091a525568" width="50"/>
+  <img src="https://github.com/user-attachments/assets/d6d93e54-6ed0-4311-ba4f-44091a525568" width="150"/>
 </p>
 
 
