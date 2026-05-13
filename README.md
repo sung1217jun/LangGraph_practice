@@ -29,7 +29,9 @@ LangGraph를 활용하여 다음과 같은 흐름으로 구성하였다.
 질문이 입력되면 Retriever가 관련 문서를 검색하고,
 검색된 문맥을 기반으로 LLM이 최종 답변을 생성하는 구조이다.
 
-<img width="115" height="432" alt="image" src="https://github.com/user-attachments/assets/d6d93e54-6ed0-4311-ba4f-44091a525568" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d6d93e54-6ed0-4311-ba4f-44091a525568" width="500"/>
+</p>
 
 
 ---
@@ -56,7 +58,7 @@ LangGraph를 활용하여 다음과 같은 흐름으로 구성하였다.
 
 LangGraph를 활용하여 Agent 간 흐름을 그래프 구조 형태로 구성하였다.
 
-```text id="3l7v2h"
+```
 User Question
     ↓
 Retriever
@@ -88,7 +90,9 @@ LLM 응답 생성
 또한 LangGraph 기반 Multi-Agent Workflow 구성 및
 RAG 파이프라인 구현이 가능함을 확인하였다.
 
-<img width="2142" height="860" alt="image" src="https://github.com/user-attachments/assets/23cc4e3d-6510-428e-8841-6d193350c584" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/23cc4e3d-6510-428e-8841-6d193350c584" width="900"/>
+</p>
 
 ---
 
